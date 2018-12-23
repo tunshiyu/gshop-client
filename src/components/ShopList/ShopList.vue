@@ -67,7 +67,7 @@
     },
     computed: {
       ...mapState(['shops'])
-    }
+    },
   }
 </script>
 
